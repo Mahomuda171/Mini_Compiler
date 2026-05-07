@@ -1,14 +1,14 @@
 Mini_Compiler
 
 
-├── lexical.py ----------> Tokenizer
+├── lexical.py  ---------->  Tokenizer
 
-├── sym_tab.py ----------> Symbol Table
+├── sym_tab.py  ---------->  Symbol Table
 
-├── parser.py -----------> Parser 
+├── parser.py  ----------->  Parser 
 
-├── semantic.py ---------> Semantic Analyzer
+├── semantic.py  --------->  Semantic Analyzer
 
-├── intermediate.py -----> 3-Address Code
+├── intermediate.py  ----->  3-Address Code
 
-├── assembly_main.py ----> Assembly + Main
+├── assembly_main.py  ---->  Assembly + Main

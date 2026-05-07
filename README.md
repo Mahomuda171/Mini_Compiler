@@ -1,5 +1,6 @@
 mini-compiler
 │
+
 ├── lexical.py ----------> Tokenizer
 
 ├── symbol_table.py -----> Symbol Table

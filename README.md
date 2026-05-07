@@ -1,4 +1,4 @@
-#Mini_Compiler
+Mini_Compiler
 
 
 ├── lexical.py ----------> Tokenizer

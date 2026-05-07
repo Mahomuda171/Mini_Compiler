@@ -3,9 +3,9 @@ Mini_Compiler
 
 ├── lexical.py ----------> Tokenizer
 
-├── symbol_table.py -----> Symbol Table
+├── sym_tab.py ----------> Symbol Table
 
-├── parser_ast.py -------> Parser & AST
+├── parser.py -----------> Parser 
 
 ├── semantic.py ---------> Semantic Analyzer
 
